@@ -1,0 +1,128 @@
+body {
+    background-color: #2c3338;
+    color: #606468;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    height: 100%;
+    line-height: 1.5;
+    margin: 0;
+    min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+
+}
+
+.main{
+    margin: 10px auto;
+  }
+  
+  h1 {
+      font-size: 24px;
+      font-weight: 400;
+      text-align: center;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 1.1rem;
+    font-weight: 700;
+     color: whitesmoke;
+  }
+  
+  img {
+    height: 300px;
+    width: 100%;
+    vertical-align: middle;
+  }
+  
+  
+  .btn:hover {
+    background-color: #1fd4bc;
+    color: #12192c;
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  .cards_item {
+    padding: 1rem;
+    width: 25%;
+  }
+  
+  .card {
+    border-radius:15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+   
+  }
+  
+  .card_content {
+    padding: 2rem;
+    background: #12192C;
+  }
+  
+  .card_title {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin: 0px;
+   
+  }
+  
+  .card_text {
+    color: #ffffff;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;    
+    font-weight: 400;
+  }
+ 
+.main h1{
+  font-size: 34px;
+  font-weight: 400;
+  text-align: center;
+  font-family: 'Share Tech Mono', monospace;
+font-weight: 700;
+}
+
+
+
+
+.credit{
+  text-align: center;
+  color: #000;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.credit a{
+  text-decoration: none;
+  color:#000;
+  font-weight: bold;
+} 
+
+
+.audio {
+  margin-top:30px;
+    margin-right: 30px;
+    text-align: center;
+    width: 100%; /* Adjust the width as needed */
+
+
+}
+
+
+
+
+
+
